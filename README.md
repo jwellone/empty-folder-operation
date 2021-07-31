@@ -1,6 +1,7 @@
 # empty-folder-operation(ver1.0.0)
-Searches in the specified folder and lists empty folders. 
-You can manually delete the selected folder, or you can delete it automatically when you start the editor.
+It includes the following features for empty folders:
+- List empty folders under the specified folder and delete them if don't need.
+- Delete empty folders automatically when raunch Unity editor.
 
 This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 
