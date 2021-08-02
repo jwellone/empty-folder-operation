@@ -15,7 +15,7 @@ This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 ![empty-folder-operation](https://user-images.githubusercontent.com/85072161/127738028-96b4065b-ac33-4c9b-9f9c-7e99b6511419.gif)
 
 ## Authors
-**jwellone Inc.** [GitHub](https://github.com/jwellone/) / [Twitter](https://twitter.com/jwellone) / [Facebook](https://www.facebook.com/Jwellone-Inc-110584057879884/)
+**jwellone Inc.** [GitHub](https://github.com/jwellone/) / [Twitter](https://twitter.com/jwellone) / [Facebook](https://www.facebook.com/jwellone/)
 
 Developer:
 - Yasuhiko Usui.
