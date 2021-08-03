@@ -15,10 +15,21 @@ This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 ![empty-folder-operation](https://user-images.githubusercontent.com/85072161/127738028-96b4065b-ac33-4c9b-9f9c-7e99b6511419.gif)
 
 ## Authors
-**jwellone Inc.** [GitHub](https://github.com/jwellone/) / [Twitter](https://twitter.com/jwellone) / [Facebook](https://www.facebook.com/jwellone/)
+**jwellone Inc.**
+<p align="left"> 
+  <a href="https://github.com/jwellone">
+    <img height="20" src="https://img.shields.io/github/followers/jwellone?label=follow&logo=github&style=flat"/>
+  </a>
+  <a href="http://twitter.com/jwellone">
+    <img height="20" src="https://img.shields.io/twitter/follow/jwellone?label=Twitter&logo=twitter&style=flat"/>
+  </a>
+  <a href="https://www.facebook.com/jwellone">
+    <img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
 Developer:
-- Yasuhiko Usui.
+- [Yasuhiko Usui.](https://github.com/UsuiYasuhiko-jw1)
 
 
 ## License
