@@ -4,7 +4,7 @@ using System.IO;
 using UnityEngine;
 using UnityEditor;
 
-namespace UniExtensions.Editor
+namespace jwellone.Editor
 {
 	[InitializeOnLoad]
 	public static class EmptyFolderManager

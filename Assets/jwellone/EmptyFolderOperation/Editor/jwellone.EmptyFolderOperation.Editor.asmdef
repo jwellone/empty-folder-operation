@@ -1,5 +1,5 @@
 {
-    "name": "UniExtensions.EmptyFolderOperation.Editor",
+    "name": "jwellone.EmptyFolderOperation.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace UniExtensions.Editor
+namespace jwellone.Editor
 {
 	public class EmptyFolderWindow : EditorWindow
 	{
@@ -17,7 +17,7 @@ namespace UniExtensions.Editor
 			Num,
 		}
 
-		[MenuItem("UniExtensions/Window/Empty Folder Window")]
+		[MenuItem("jewllone/Window/Empty Folder Window")]
 		public static void Open()
 		{
 			var window = EditorWindow.GetWindow<EmptyFolderWindow>();
