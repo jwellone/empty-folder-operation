@@ -16,7 +16,7 @@ This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 ## Getting Started
 - Import the package.
-- "UniExtensions > Window > Empty Folder Window" choose.
+- "jwellone > Window > Empty Folder Window" choose.
 - When you select the refresh button, empty folders in the specified folder will be displayed.
 - Can delete an empty folder by selecting the delete button next to the item or by selecting the delete all button.
 
