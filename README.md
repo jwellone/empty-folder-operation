@@ -11,7 +11,7 @@ It includes the following features for empty folders:
 - List empty folders under the specified folder and delete them if don't need.
 - Delete empty folders automatically when raunch Unity editor.
 
-This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 
 ## Getting Started
